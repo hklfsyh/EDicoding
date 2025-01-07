@@ -31,7 +31,7 @@ Pengembangan EDicoding memanfaatkan teknologi berikut:
   - **Retrofit** untuk komunikasi API  
   - **Glide** untuk pengelolaan gambar
   - **Room** untuk manajemen database penyimpanan lokal
-  - **RecyclerVier** untuk menampilkan daftar data
+  - **RecyclerView** untuk menampilkan daftar data
   - **ViewPager** untuk menavigasi berbasis halaman
   - **WorkManager** untuk pengaturan pengingat harian  
 - **Arsitektur**: MVVM (Model-View-ViewModel)  
@@ -50,12 +50,31 @@ Beberapa pengembangan yang direncanakan untuk versi berikutnya:
 Berikut adalah beberapa tampilan dari aplikasi EPLWiki:
 
 - **Tampilan Utama**
-Menampilkan daftar klub Liga Inggris musim 2024/2025.
-  - ![image](https://github.com/user-attachments/assets/764f7fa7-a43c-4e4d-aa07-7112dbc2ad4f)
+Menampilkan halaman utama dari EDicoding.
+  - ![image](https://github.com/user-attachments/assets/e92a91fb-36ab-451d-8024-f5404a44f833)
+  - ![image](https://github.com/user-attachments/assets/93ed7026-20a8-4b05-81d6-88db269fb512)
 
-- **Detail Klub**
-Halaman detail klub, termasuk pelatih, stadion, dan pemain kunci.
-  - ![image](https://github.com/user-attachments/assets/2f4f0b2d-66ef-4dcc-bf77-fe1323180f95) ![image](https://github.com/user-attachments/assets/ab4d29a6-db1c-4e15-90ff-67f7c3d2fc5f)
+- **Tampilan Upcoming Events**
+Menampilkan event-event yang akan dilaksanakan.
+  - ![image](https://github.com/user-attachments/assets/fa89f207-8b7c-45c5-87ad-80782ffb3715)
+
+- **Tampilan Finished Events**
+Menampilkan event-event yang sudah selesai dilaksanakan.
+  - ![image](https://github.com/user-attachments/assets/caa867bb-0c87-49b5-bab5-1d9c6279b4a0)
+
+- **Tampilan Detail Events**
+Menampilkan halaman detail dari event yang ada.
+  - ![image](https://github.com/user-attachments/assets/33999477-d854-4e1c-9282-76f572d73a33)
+  - ![image](https://github.com/user-attachments/assets/a70c613c-29bd-4e3a-9e58-48ab3aecbab8)
+
+- **Tampilan Favorites Events**
+Menampilkan halaman favorit dari event yang sudah difavoritkan.
+  - ![image](https://github.com/user-attachments/assets/7fd94aaa-cca3-473c-b8ba-7f10bc46dc61)
+
+- **Tampilan Settings**
+Menampilkan halaman pengaturan untuk fitur seperti tema gelap.
+  - ![image](https://github.com/user-attachments/assets/cb479f38-ebf4-4461-8bc9-8b8635cffe35)
+  - ![image](https://github.com/user-attachments/assets/7c5f4ed0-9455-416f-b1c3-680487d61be1)
 
 ---
 
@@ -67,6 +86,8 @@ Clone repository ini ke komputer Anda:
 ```bash
 git clone https://github.com/username/EDicoding.git
 ```
+### 2. **Download Releases**
+Download aplikasi untuk mencobanya secara langsung pada device dengan mendownloadnya di GitHub ini, atau pada [link](https://github.com/hklfsyh/EDicoding/releases/tag/v1.0.0) ini.
 
 ---
 
