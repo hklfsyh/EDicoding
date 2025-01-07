@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">EDicoding</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_event_page">Go to Event Page</string>
+    <string name="appbar_scrolling_view_behavior">ScrollingViewBehavior</string>
+    <string name="event_name">Event Name</string>
+    <string name="search_hint">Search finished events</string>
+    <string name="no_results">No results found</string>
+    <string name="app_title">Dicoding Event</string>
+    <string name="upcoming_events_label">Upcoming Events</string>
+    <string name="finished_events_label">Finished Events</string>
+    <string name="search_events_hint">Search events</string>
+    <string name="no_results_found">No results found</string>
+    <string name="todo">TODO</string>
+    <string name="event_name_placeholder">Event Name</string>
+    <string name="event_date">Event Date: %1$s</string>
+    <string name="location">Location: %1$s</string>
+    <string name="owner">Owner: %1$s</string>
+    <string name="quota">Quota: %1$d</string>
+    <string name="registrants">Registrants: %1$d</string>
+    <string name="remaining_quota">Remaining Quota: %1$s</string>
+    <string name="category">Category: %1$s</string>
+    <string name="error_fetching_data">Error fetching data</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="settings">Settings</string>
+    <string name="text_dark_mode">Menyalakan mode gelap</string>
+    <string name="text_daily_reminder">Mengaktifkan Notifikasi</string>
+    <string name="no_internet_connection_please_check_your_connection">No Internet Connection. Please check your connection.</string>
+    <string name="refresh">Refresh</string>
+    <string name="home">Home</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="finished">Finished</string>
+    <string name="favorites">Favorites</string>
+</resources>
